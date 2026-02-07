@@ -1,0 +1,7 @@
+{
+  "name": "QueueMaster Pro",
+  "description": "A professional queuing system with customizable tellers, receptionist panels, and real-time monitor display featuring AI-powered voice announcements.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
